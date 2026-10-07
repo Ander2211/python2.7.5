@@ -4,7 +4,7 @@ import csv
 import os
 import sys
 
-# Compatibilidad de entrada entre Python 2 y 3
+
 try:
     obtener_input = raw_input
 except NameError:
